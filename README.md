@@ -2,7 +2,7 @@
 
 <h4>About</h4>
 Gravity Dash is a 2D platformer game developed using Python, Pygame, and Pytmx.
-It challenges players to jump across platforms, shoot animated enemies like bees and worms, and survive as long as possible without falling a platform.
+It challenges players to jump across platforms, shoot animated enemies like bees and worms, and survive as long as possible without falling off a platform.
 
 The game includes responsive controls, smooth animations, real-time scoring, and a retry mechanism for added engagement.
 
