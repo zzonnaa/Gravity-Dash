@@ -1,4 +1,4 @@
-<h2>GravityDashGame<h2></h2>
+<h2>Gravity Dash Game<h2></h2>
 
 <h4>About</h4>
 Gravity Dash is a 2D platformer game developed using Python, Pygame, and Pytmx.
