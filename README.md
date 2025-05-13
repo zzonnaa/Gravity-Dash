@@ -36,4 +36,12 @@ The game includes responsive controls, smooth animations, real-time scoring, and
 <b>Shooting:</b> Press <b>S</b> to shoot bullets
 
 <b>Retry:</b> Press <b>R</b> to restart
+<br>
+<h2>Screenshots</h2>
 
+<img src="screenshots/gamewindow.png" alt="Game Window" width="600">
+<img src="screenshots/shootworm.png" alt="Shooting a Worm Screenshot" width="600">
+<img src="screenshots/wormdeathanimation.png" alt="Worm Shot Screenshot" width="600">
+<img src="screenshots/jump.png" alt="Player jump Screenshot" width="600">
+<img src="screenshots/bees.png" alt="Bees Screenshot" width="600">
+<img src="screenshots/gameover.png" alt="Game Over Screenshot" width="600">
