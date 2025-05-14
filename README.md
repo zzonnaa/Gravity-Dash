@@ -6,6 +6,14 @@ It challenges players to jump across platforms, shoot animated enemies like bees
 
 The game includes responsive controls, smooth animations, real-time scoring, and a retry mechanism for added engagement.
 
+##  Built With
+
+- **Python** - Core programming language
+- **Pygame** - Game development library
+- **Pytmx** - Tiled map (.tmx) loader
+- **VS Code** - Code editor
+
+
 <h2>How Run the Game:</h2> <ul> <li><h3>Install Dependencies</h3></li> <ol> <li>Make sure Python is installed.</li> <li>Install Pygame and Pytmx:</li>
 
     pip install pygame pytmx
